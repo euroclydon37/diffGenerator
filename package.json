@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/euroclydon37/diffGenerator/issues"
   },
-  "homepage": "https://github.com/euroclydon37/diffGenerator#readme"
+  "homepage": "https://github.com/euroclydon37/diffGenerator#readme",
+  "devDependencies": {
+    "ava": "1.0.0-rc.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
