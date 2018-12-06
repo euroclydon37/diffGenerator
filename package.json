@@ -1,0 +1,26 @@
+{
+  "name": "diff-generator",
+  "version": "0.1.0",
+  "description": "Measures incremental changes between objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euroclydon37/diffGenerator.git"
+  },
+  "keywords": [
+    "diff",
+    "object",
+    "version",
+    "generator",
+    "gen"
+  ],
+  "author": "Jeremy Dunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euroclydon37/diffGenerator/issues"
+  },
+  "homepage": "https://github.com/euroclydon37/diffGenerator#readme"
+}
